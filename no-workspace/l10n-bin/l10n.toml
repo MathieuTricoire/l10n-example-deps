@@ -1,0 +1,4 @@
+[l10n]
+# This is not mandatory here to prefix with "$ROOT" since it's the binary and it's not part of a workspace.
+# So the path is relative to the directory containing the Cargo.toml file.
+# path = "$ROOT/l10n"

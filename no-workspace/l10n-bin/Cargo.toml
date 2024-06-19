@@ -1,0 +1,8 @@
+[package]
+name = "l10n-bin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+l10n-lib = { path = "../l10n-lib" }
+l10n = { git = "https://github.com/MathieuTricoire/l10n" }

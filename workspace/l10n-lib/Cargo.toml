@@ -1,0 +1,7 @@
+[package]
+name = "l10n-lib"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+l10n.workspace = true
